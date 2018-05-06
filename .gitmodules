@@ -1,0 +1,3 @@
+[submodule "asylo"]
+	path = asylo
+	url = git@github.com:google/asylo.git
